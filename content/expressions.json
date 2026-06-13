@@ -1,0 +1,25 @@
+{
+    "expressions":  [
+                        {
+                            "id":  "exp_000001",
+                            "ko":  "왜",
+                            "foreign":  "なんで？",
+                            "language":  "Japanese",
+                            "audio":  "audio/public/exp_000001.ogg"
+                        },
+                        {
+                            "id":  "exp_000002",
+                            "ko":  "뭐",
+                            "foreign":  "なに",
+                            "language":  "Japanese",
+                            "audio":  "audio/public/exp_000002.ogg"
+                        },
+                        {
+                            "id":  "exp_000003",
+                            "ko":  "어디",
+                            "foreign":  "どこ",
+                            "language":  "Japanese",
+                            "audio":  "audio/public/exp_000003.ogg"
+                        }
+                    ]
+}

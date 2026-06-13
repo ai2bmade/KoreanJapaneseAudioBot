@@ -1,0 +1,19 @@
+{
+  "challenges": [
+    {
+      "id": "exp_000001",
+      "koWrong": "뭐",
+      "foreignWrong": "なに"
+    },
+    {
+      "id": "exp_000002",
+      "koWrong": "어디",
+      "foreignWrong": "どこ"
+    },
+    {
+      "id": "exp_000003",
+      "koWrong": "왜",
+      "foreignWrong": "なんで？"
+    }
+  ]
+}

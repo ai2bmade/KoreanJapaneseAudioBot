@@ -1,0 +1,4 @@
+id,type,language,ko,foreign,source_file,public_file
+exp_000001,expression,Japanese,왜,なんで？,K00040_왜_なんで？.mp3,audio/public/exp_000001.ogg
+exp_000002,expression,Japanese,뭐,なに,K00041_뭐_なに.mp3,audio/public/exp_000002.ogg
+exp_000003,expression,Japanese,어디,どこ,K00042_어디_どこ.mp3,audio/public/exp_000003.ogg
