@@ -2,24 +2,38 @@
     "expressions":  [
                         {
                             "id":  "exp_000001",
-                            "ko":  "왜",
-                            "foreign":  "なんで？",
+                            "ko":  "안녕",
+                            "foreign":  "こんにちは",
                             "language":  "Japanese",
                             "audio":  "audio/public/exp_000001.ogg"
                         },
                         {
                             "id":  "exp_000002",
-                            "ko":  "뭐",
-                            "foreign":  "なに",
+                            "ko":  "고마워",
+                            "foreign":  "ありがとう",
                             "language":  "Japanese",
                             "audio":  "audio/public/exp_000002.ogg"
                         },
                         {
                             "id":  "exp_000003",
-                            "ko":  "어디",
-                            "foreign":  "どこ",
+                            "ko":  "미안해",
+                            "foreign":  "ごめん",
                             "language":  "Japanese",
                             "audio":  "audio/public/exp_000003.ogg"
+                        },
+                        {
+                            "id":  "exp_000004",
+                            "ko":  "괜찮아",
+                            "foreign":  "大丈夫",
+                            "language":  "Japanese",
+                            "audio":  "audio/public/exp_000004.ogg"
+                        },
+                        {
+                            "id":  "exp_000005",
+                            "ko":  "좋아요",
+                            "foreign":  "いいね",
+                            "language":  "Japanese",
+                            "audio":  "audio/public/exp_000005.ogg"
                         }
                     ]
 }

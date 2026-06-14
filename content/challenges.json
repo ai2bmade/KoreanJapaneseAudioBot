@@ -2,18 +2,28 @@
   "challenges": [
     {
       "id": "exp_000001",
-      "koWrong": "뭐",
-      "foreignWrong": "なに"
+      "koWrong": "고마워",
+      "foreignWrong": "ありがとう"
     },
     {
       "id": "exp_000002",
-      "koWrong": "어디",
-      "foreignWrong": "どこ"
+      "koWrong": "미안해",
+      "foreignWrong": "ごめん"
     },
     {
       "id": "exp_000003",
-      "koWrong": "왜",
-      "foreignWrong": "なんで？"
+      "koWrong": "괜찮아",
+      "foreignWrong": "大丈夫"
+    },
+    {
+      "id": "exp_000004",
+      "koWrong": "좋아요",
+      "foreignWrong": "いいね"
+    },
+    {
+      "id": "exp_000005",
+      "koWrong": "안녕",
+      "foreignWrong": "こんにちは"
     }
   ]
 }

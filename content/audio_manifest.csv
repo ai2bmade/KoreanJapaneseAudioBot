@@ -1,4 +1,6 @@
 id,type,language,ko,foreign,source_file,public_file
-exp_000001,expression,Japanese,왜,なんで？,K00040_왜_なんで？.mp3,audio/public/exp_000001.ogg
-exp_000002,expression,Japanese,뭐,なに,K00041_뭐_なに.mp3,audio/public/exp_000002.ogg
-exp_000003,expression,Japanese,어디,どこ,K00042_어디_どこ.mp3,audio/public/exp_000003.ogg
+exp_000001,expression,Japanese,안녕,こんにちは,K00031_안녕_こんにちは.mp3,audio/public/exp_000001.ogg
+exp_000002,expression,Japanese,고마워,ありがとう,K00032_고마워_ありがとう.mp3,audio/public/exp_000002.ogg
+exp_000003,expression,Japanese,미안해,ごめん,K00033_미안해_ごめん.mp3,audio/public/exp_000003.ogg
+exp_000004,expression,Japanese,괜찮아,大丈夫,K00034_괜찮아_大丈夫.mp3,audio/public/exp_000004.ogg
+exp_000005,expression,Japanese,좋아요,いいね,K00035_좋아요_いいね.mp3,audio/public/exp_000005.ogg
